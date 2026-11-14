@@ -49,29 +49,6 @@
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
-    <img alt="GitHub Stats" src="./assets/profile-cards/overview.light.svg" width="49%" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/languages.dark.svg" />
-    <img alt="Top Languages" src="./assets/profile-cards/languages.light.svg" width="49%" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/momentum.dark.svg" />
-    <img alt="Contribution Momentum" src="./assets/profile-cards/momentum.light.svg" width="98%" />
-  </picture>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rezpecktor.rezpecktor&" />
 </div>
 
