@@ -22,16 +22,6 @@ Git · GitHub · Docker · Postman · Google Colab · Jupyter Notebook
 **Currently Learning**  
 AWS Cloud · Workflow Automation with n8n
 
-## Selected Projects
-
-**[HHT-GRU Tourist Arrival Forecasting](https://github.com/rezpecktor/HHT-GRU-tourist-arrivals-Forecasting)**  
-A hybrid deep learning model for tourist arrival forecasting using Hilbert-Huang Transform, GRU, and Google Trends data.
-
-**[TrashGu](https://github.com/rezpecktor/TrashGu)**  
-A collaborative AI-powered web application for image-based waste classification across 12 waste categories.
-
-## Portfolio & Connect
-
 [Personal Portfolio](https://rezapahlevi.biz.id) · [LinkedIn](https://www.linkedin.com/in/reza-pahlevi-dev) · [Email](mailto:m.reza.pahlevi.dev@gmail.com)
 
 
