@@ -14,7 +14,7 @@ Python · TensorFlow · Keras · Scikit-learn · GRU · HHT
 NumPy · Pandas · Matplotlib · Data Preprocessing · Feature Engineering · Time-Series Forecasting · Model Evaluation
 
 **Web Development**  
-HTML · CSS · JavaScript · React.js · REST APIs · Node.js (Basic)
+HTML · CSS · JavaScript · React.js · REST APIs · Node.js
 
 **Tools & Platforms**  
 Git · GitHub · Docker · Postman · Google Colab · Jupyter Notebook
