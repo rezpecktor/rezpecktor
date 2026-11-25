@@ -1,4 +1,39 @@
 
+# M. Reza Pahlevi
+
+**Entry-Level AI/ML Engineer · Web Developer**
+
+Informatics Engineering graduate with a focus on machine learning, deep learning, and time-series forecasting. Interested in building data-driven solutions and integrating machine learning into practical web applications.
+
+## Technical Skills
+
+**Machine Learning & Deep Learning**  
+Python · TensorFlow · Keras · Scikit-learn · GRU · HHT
+
+**Data Science & Forecasting**  
+NumPy · Pandas · Matplotlib · Data Preprocessing · Feature Engineering · Time-Series Forecasting · Model Evaluation
+
+**Web Development**  
+HTML · CSS · JavaScript · React.js · REST APIs · Node.js (Basic)
+
+**Tools & Platforms**  
+Git · GitHub · Docker · Postman · Google Colab · Jupyter Notebook
+
+**Currently Learning**  
+AWS Cloud · Workflow Automation with n8n
+
+## Selected Projects
+
+**[HHT-GRU Tourist Arrival Forecasting](https://github.com/rezpecktor/HHT-GRU-tourist-arrivals-Forecasting)**  
+A hybrid deep learning model for tourist arrival forecasting using Hilbert-Huang Transform, GRU, and Google Trends data.
+
+**[TrashGu](https://github.com/rezpecktor/TrashGu)**  
+A collaborative AI-powered web application for image-based waste classification across 12 waste categories.
+
+## Portfolio & Connect
+
+[Personal Portfolio](https://rezapahlevi.biz.id) · [LinkedIn](https://www.linkedin.com/in/reza-pahlevi-dev) · [Email](mailto:m.reza.pahlevi.dev@gmail.com)
+
 
 ###
 
