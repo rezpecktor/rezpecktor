@@ -1,9 +1,9 @@
 
 # M. Reza Pahlevi
 
-**Entry-Level AI/ML Engineer · Web Developer**
+**AI/ML Engineer · Software Developer**
 
-Informatics Engineering graduate with a focus on machine learning, deep learning, and time-series forecasting. Interested in building data-driven solutions and integrating machine learning into practical web applications.
+I build solutions through machine learning and software development, with an interest in artificial intelligence, cloud computing, and automation.
 
 ## Technical Skills
 
