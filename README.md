@@ -1,5 +1,5 @@
 
-# M. Reza Pahlevi
+# M. REZA PAHLEVI
 
 **AI/ML Engineer · Software Developer**
 
