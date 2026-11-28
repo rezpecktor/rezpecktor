@@ -22,7 +22,7 @@ Git · GitHub · Docker · Postman · Google Colab · Jupyter Notebook
 **Currently Learning**  
 AWS Cloud · Workflow Automation with n8n
 
-[Personal Portfolio](https://rezapahlevi.biz.id) · [LinkedIn](https://www.linkedin.com/in/reza-pahlevi-dev) · [Email](mailto:m.reza.pahlevi.dev@gmail.com)
+[Personal Portfolio](https://rezapahlevi.pages.dev) · [LinkedIn](https://www.linkedin.com/in/reza-pahlevi-dev) · [Email](mailto:m.reza.pahlevi.dev@gmail.com)
 
 
 ###
